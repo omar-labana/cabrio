@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/fonts": "latest",
     "@nuxtjs/tailwindcss": "^6.12.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
@@ -23,6 +24,7 @@
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
+    "nuxt-icon": "latest",
     "typescript": "^5.4.5"
   }
 }
