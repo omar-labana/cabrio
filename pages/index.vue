@@ -14,8 +14,10 @@
           </SelectTrigger>
           <SelectContent>
             <SelectGroup>
-              <SelectLabel>Ride type</SelectLabel>
               <SelectItem value="Airport Transfer"> Airport Transfer </SelectItem>
+              <SelectItem value="By Hour"> By Hour </SelectItem>
+              <SelectItem value="For a Day"> For a Day </SelectItem>
+              <SelectItem value="City to city"> City to city </SelectItem>
             </SelectGroup>
           </SelectContent>
         </Select>
